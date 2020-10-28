@@ -1,0 +1,5 @@
+C:\Users\HP\RiderProjects\Task1_11\log\bin\Release\log.dll
+C:\Users\HP\RiderProjects\Task1_11\log\bin\Release\log.pdb
+C:\Users\HP\RiderProjects\Task1_11\log\obj\Release\log.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\Task1_11\log\obj\Release\log.dll
+C:\Users\HP\RiderProjects\Task1_11\log\obj\Release\log.pdb
